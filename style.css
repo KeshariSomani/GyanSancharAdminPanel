@@ -1,0 +1,44 @@
+* {
+  font-family: 'Noto Sans';
+}
+body{
+  background:#FFE3AA;
+}
+/* text colors */
+.text-primary {
+  color: #275473;
+}
+
+.text-blueish {
+  color: #0962ea;
+}
+
+/* bg colors */
+.bg-primary {
+  background-color: #C77E2E;
+}
+
+.bg-avatar {
+  background-color: #d9d9d9;
+}
+
+.bg-light {
+  background-color: #f4f4f4;
+}
+
+/* border colors */
+.border-primary {
+  border-color: #FFCB00  ;
+}
+
+.border-menu {
+  border-color: #C77E2E;
+}
+
+/* sidebar styles */
+.side-navbar {
+  border-top: 5vw solid transparent;
+  border-left: 70px solid #FCF4DF;
+  
+  border-bottom: 5vw solid transparent;
+}
